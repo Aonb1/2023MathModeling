@@ -1,2 +1,2 @@
 # 2023MathModelingAwk
-数学建模整合资料
+数学建模比赛
